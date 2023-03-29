@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.button-el {
+  width: 150px;
+  background-color: #382f5a;
+  border-color: #ffffff;
+  color: #ffffff;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  height: 30px;
+}
